@@ -22,23 +22,56 @@
 }
 .search-button{
     border-radius:5px;
-    height:30px;
-    width:100px;
+    height:36px;
+    width:130px;
+    font-size: 14px;
     display: block;
     margin: 0 auto;
     position: absolute;
+    border: 1px solid #f8f9fa;
     top: 58%;
     left: 45%;
     transform: translate(-50%, -50%);
 }
 .search-lucky{
     border-radius:5px;
-    height:30px;
-    width:120px;
+    height:36px;
+    width:130px;
+    font-size: 14px;
     display: block;
     margin: 0 auto;
     position: absolute;
+    border: 1px solid #f8f9fa;
     top: 58%;
     left: 55%;
     transform: translate(-50%, -50%);
+}
+.search-button1{
+    border-radius:5px;
+    height:36px;
+    width:130px;
+    font-size: 14px;
+    display: block;
+    margin: 0 auto;
+    position: absolute;
+    border: 1px solid #f8f9fa;
+    top: 58%;
+    left: 49.5%;
+    transform: translate(-50%, -50%);
+}
+.text{
+    color: #4285f4;
+    font: 16px / 16px Roboto, sans-serif;
+    position: absolute;
+    left: 54.8%;
+    top:39%;
+    bottom: 0;
+}
+.google-img{
+    position:absolute;
+    left:85%;
+    font-size:14px;
+    border-radius:5px;
+    border: 1px solid white;
+    padding:7px;
 }
